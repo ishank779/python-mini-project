@@ -1,4 +1,4 @@
-# python-mini-project
+# python-mini-project(data viualization bot)
 data visualization bot 
 pakages used in this project are:-
 1.matplotlib  : to make some visualization in form of graphs 
